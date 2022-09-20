@@ -1,0 +1,59 @@
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\bin\Debug\bodegaTi.exe.config
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\bin\Debug\bodegaTi.exe
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\bin\Debug\bodegaTi.pdb
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\bin\Debug\bodegaTi.xml
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbprojAssemblyReference.cache
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Productos.resources
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Login.resources
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Resources.resources
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Principal.resources
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Retirar.resources
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbproj.GenerateResource.cache
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbproj.CoreCompileInputs.cache
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.exe
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.xml
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.pdb
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\bin\Debug\itextsharp.dll
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\bin\Debug\itextsharp.xml
+C:\Users\anibal.alvarez\Desktop\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbproj.CopyComplete
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\bin\Debug\bodegaTi.exe.config
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\bin\Debug\bodegaTi.exe
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\bin\Debug\bodegaTi.pdb
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\bin\Debug\bodegaTi.xml
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\bin\Debug\itextsharp.dll
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\bin\Debug\itextsharp.xml
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbprojAssemblyReference.cache
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Productos.resources
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Login.resources
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Resources.resources
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Principal.resources
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Retirar.resources
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbproj.GenerateResource.cache
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbproj.CoreCompileInputs.cache
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbproj.CopyComplete
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.exe
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.xml
+A:\escritorio\bodegaTI\bodegaTi\bodegaTi\obj\Debug\bodegaTi.pdb
+D:\Proyecto inventario\bodegaTi\bodegaTi\bin\Debug\bodegaTi.exe.config
+D:\Proyecto inventario\bodegaTi\bodegaTi\bin\Debug\bodegaTi.exe
+D:\Proyecto inventario\bodegaTi\bodegaTi\bin\Debug\bodegaTi.pdb
+D:\Proyecto inventario\bodegaTi\bodegaTi\bin\Debug\bodegaTi.xml
+D:\Proyecto inventario\bodegaTi\bodegaTi\bin\Debug\itextsharp.dll
+D:\Proyecto inventario\bodegaTi\bodegaTi\bin\Debug\itextsharp.xml
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbprojAssemblyReference.cache
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Productos.resources
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Login.resources
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Resources.resources
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Principal.resources
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.Retirar.resources
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbproj.GenerateResource.cache
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbproj.CoreCompileInputs.cache
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.vbproj.CopyComplete
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.exe
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.xml
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.pdb
+D:\Proyecto inventario\bodegaTi\bodegaTi\bin\Debug\bodegaTi.exe.manifest
+D:\Proyecto inventario\bodegaTi\bodegaTi\bin\Debug\bodegaTi.application
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.TrustInfo.xml
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.exe.manifest
+D:\Proyecto inventario\bodegaTi\bodegaTi\obj\Debug\bodegaTi.application

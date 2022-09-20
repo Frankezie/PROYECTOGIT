@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "bodegaTi", "bodegaTi\bodegaTi.vbproj", "{F5E4E177-E1C0-4AC6-889F-139A93C7D6FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E4E177-E1C0-4AC6-889F-139A93C7D6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E4E177-E1C0-4AC6-889F-139A93C7D6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E4E177-E1C0-4AC6-889F-139A93C7D6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E4E177-E1C0-4AC6-889F-139A93C7D6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6CFE476-EC2E-4A55-AF86-5BF9332D68FD}
+	EndGlobalSection
+EndGlobal
