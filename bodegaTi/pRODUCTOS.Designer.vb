@@ -53,9 +53,16 @@ Partial Class Productos
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label10 = New System.Windows.Forms.Label()
         Me.cmb_bodega = New System.Windows.Forms.ComboBox()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.NumericUpDown1 = New System.Windows.Forms.NumericUpDown()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.TextBox2 = New System.Windows.Forms.TextBox()
         CType(Me.grilla_productos, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.txt_cantidad, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.NumericUpDown1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'txt_nombre_producto
@@ -205,11 +212,11 @@ Partial Class Productos
         Me.grilla_productos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
         Me.grilla_productos.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells
         Me.grilla_productos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.grilla_productos.Location = New System.Drawing.Point(23, 319)
+        Me.grilla_productos.Location = New System.Drawing.Point(23, 370)
         Me.grilla_productos.Name = "grilla_productos"
         Me.grilla_productos.ReadOnly = True
         Me.grilla_productos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.grilla_productos.Size = New System.Drawing.Size(939, 254)
+        Me.grilla_productos.Size = New System.Drawing.Size(939, 203)
         Me.grilla_productos.TabIndex = 16
         '
         'btn_crear_codigo
@@ -271,7 +278,7 @@ Partial Class Productos
         '
         'PictureBox1
         '
-        Me.PictureBox1.Location = New System.Drawing.Point(722, 181)
+        Me.PictureBox1.Location = New System.Drawing.Point(722, 184)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(240, 58)
         Me.PictureBox1.TabIndex = 24
@@ -352,6 +359,70 @@ Partial Class Productos
         Me.cmb_bodega.Size = New System.Drawing.Size(461, 21)
         Me.cmb_bodega.TabIndex = 30
         '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.BackColor = System.Drawing.Color.Transparent
+        Me.Label11.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label11.ForeColor = System.Drawing.Color.White
+        Me.Label11.Location = New System.Drawing.Point(60, 341)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(104, 13)
+        Me.Label11.TabIndex = 31
+        Me.Label11.Text = "PRECIO BRUTO:"
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(170, 317)
+        Me.TextBox1.Multiline = True
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.ReadOnly = True
+        Me.TextBox1.Size = New System.Drawing.Size(89, 37)
+        Me.TextBox1.TabIndex = 32
+        '
+        'Label12
+        '
+        Me.Label12.AutoSize = True
+        Me.Label12.BackColor = System.Drawing.Color.Transparent
+        Me.Label12.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Label12.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label12.ForeColor = System.Drawing.Color.White
+        Me.Label12.Location = New System.Drawing.Point(265, 341)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(77, 13)
+        Me.Label12.TabIndex = 33
+        Me.Label12.Text = "MARGEN %:"
+        '
+        'NumericUpDown1
+        '
+        Me.NumericUpDown1.Location = New System.Drawing.Point(348, 334)
+        Me.NumericUpDown1.Name = "NumericUpDown1"
+        Me.NumericUpDown1.Size = New System.Drawing.Size(40, 20)
+        Me.NumericUpDown1.TabIndex = 34
+        '
+        'Label13
+        '
+        Me.Label13.AutoSize = True
+        Me.Label13.BackColor = System.Drawing.Color.Transparent
+        Me.Label13.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Label13.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label13.ForeColor = System.Drawing.Color.White
+        Me.Label13.Location = New System.Drawing.Point(403, 341)
+        Me.Label13.Name = "Label13"
+        Me.Label13.Size = New System.Drawing.Size(95, 13)
+        Me.Label13.TabIndex = 35
+        Me.Label13.Text = "PRECIO NETO:"
+        '
+        'TextBox2
+        '
+        Me.TextBox2.Location = New System.Drawing.Point(504, 317)
+        Me.TextBox2.Multiline = True
+        Me.TextBox2.Name = "TextBox2"
+        Me.TextBox2.ReadOnly = True
+        Me.TextBox2.Size = New System.Drawing.Size(89, 37)
+        Me.TextBox2.TabIndex = 36
+        '
         'Productos
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -359,6 +430,12 @@ Partial Class Productos
         Me.BackColor = System.Drawing.SystemColors.ControlDarkDark
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(988, 603)
+        Me.Controls.Add(Me.TextBox2)
+        Me.Controls.Add(Me.Label13)
+        Me.Controls.Add(Me.NumericUpDown1)
+        Me.Controls.Add(Me.Label12)
+        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.Label11)
         Me.Controls.Add(Me.cmb_bodega)
         Me.Controls.Add(Me.Label10)
         Me.Controls.Add(Me.Label9)
@@ -393,6 +470,7 @@ Partial Class Productos
         CType(Me.grilla_productos, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.txt_cantidad, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.NumericUpDown1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -428,4 +506,10 @@ Partial Class Productos
     Friend WithEvents Label9 As Label
     Friend WithEvents Label10 As Label
     Friend WithEvents cmb_bodega As ComboBox
+    Friend WithEvents Label11 As Label
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents Label12 As Label
+    Friend WithEvents NumericUpDown1 As NumericUpDown
+    Friend WithEvents Label13 As Label
+    Friend WithEvents TextBox2 As TextBox
 End Class
