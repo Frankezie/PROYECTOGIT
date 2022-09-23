@@ -8,12 +8,11 @@ Public Class Productos
     Dim datos As DataSet
     Private Sub Productos_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Label8.Text = Login.cmb_usuario.Text
-        mostrar_grilla()
+        'mostrar_grilla()
         lbl_fecha.Text = DateTime.Now.ToString("yyyy/MM/dd")
         cargar_categorias()
         cargar_ubicacion()
     End Sub
-
 
 
     Sub mostrar_grilla()

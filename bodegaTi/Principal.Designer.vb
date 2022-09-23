@@ -81,7 +81,6 @@ Partial Class Principal
         'Button2
         '
         Me.Button2.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.Button2.Enabled = False
         Me.Button2.Location = New System.Drawing.Point(3, 201)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(117, 68)
@@ -143,6 +142,7 @@ Partial Class Principal
         Me.MaximumSize = New System.Drawing.Size(1151, 690)
         Me.Name = "Principal"
         Me.Text = "Principal"
+        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.Panel1.ResumeLayout(False)
         Me.TableLayoutPanel1.ResumeLayout(False)
         Me.ResumeLayout(False)

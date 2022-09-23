@@ -212,7 +212,7 @@ Partial Class Productos
         Me.grilla_productos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
         Me.grilla_productos.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells
         Me.grilla_productos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.grilla_productos.Location = New System.Drawing.Point(23, 370)
+        Me.grilla_productos.Location = New System.Drawing.Point(37, 388)
         Me.grilla_productos.Name = "grilla_productos"
         Me.grilla_productos.ReadOnly = True
         Me.grilla_productos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect

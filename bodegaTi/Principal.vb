@@ -26,7 +26,7 @@
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         AbrirFormEnPanel(Of Retirar)()
-        Productos.mostrar_grilla()
+        'Productos.mostrar_grilla()
     End Sub
 
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
